@@ -1,0 +1,3 @@
+{
+  "window.title": "${dirty} BlogServer ${separator}${rootName}${separator}${appName}"
+}

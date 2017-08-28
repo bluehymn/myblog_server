@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# dbconfig
+dbconfig.js
+
+# rsa key
+*.pem
